@@ -1,4 +1,4 @@
-var program_ver = '2018.0504';
+var program_ver = '2019.0796';
 var userPrompt = '';
 var botPrompt = '[[b;#333;transparent]HelloBot][[;#333;transparent] ·] ';
 
