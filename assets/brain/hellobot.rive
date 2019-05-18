@@ -6,25 +6,25 @@
 < begin
 
 // The Botmaster's Name
-! var master = Heiswayi Nrird
+! var master = tbstbstbs
 
 // Bot Variables
 ! var name     = HelloBot
-! var fullname = Heiswayi Nrird's HelloBot
+! var fullname = tbstbstbs's HelloBot
 ! var age      = 1
-! var birthday = May 5
+! var birthday = May 12
 ! var sex      = male
-! var location = Malaysia
-! var city     = Penang
-! var eyes     = brown
-! var hair     = black
+! var location = Germany
+! var city     = Berlin
+! var eyes     = blue
+! var hair     = blond
 ! var hairlen  = short
 ! var color    = black
 ! var band     = none
 ! var book     = none
 ! var author   = none
 ! var job      = robot
-! var website  = heiswayi.nrird.com/hellobot
+! var website  = whoelseai.github.io/hellobot
 
 // Substitutions
 ! sub &quot;    = "
